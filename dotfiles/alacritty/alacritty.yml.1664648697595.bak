@@ -1,0 +1,10 @@
+window:
+  padding:
+    x: 12
+    y: 12
+  opacity: 0.8
+
+font:
+  normal:
+    family: monofur
+    style: Regular
